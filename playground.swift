@@ -1,9 +1,13 @@
 import Foundation
 
 class BMI: ViewController {
-    private double bmiCalc = 0.0
-    public double weight = 0.0
-    public double height = 0.0
+    var bmiCalc = 0.0
+    print("Please enter your weight: ")
+    bmiCalc = readLine()
+    var weight = 0.0
+    print("Please enter your height: ")
+    height = bmiCalc
+    var height = 0.0
     bmiCalc = (weight/height * height)
     print("Your BMI is : \(bmiCalc)")
 }
