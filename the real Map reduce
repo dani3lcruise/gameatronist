@@ -1,0 +1,18 @@
+Map reduce also solves dimension reduction
+
+consider n product dimension
+
+x,y,z
+
+Finding distance & clustering
+
+100->3d
+
+Map reduce - hdfs[Hadoop Distributed File system] - Parallel processing, Disturbuted processing
+
+Diemension Reduction -> Redudancy parameter
+1) Domain knowledge
+2) Statistical Knowledge
+
+Data Matrix = A -> High size
+A = u epsilon v
